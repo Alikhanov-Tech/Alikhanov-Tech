@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Elkhan Alikhanov 👋
 
+## 🚀 About Me
+- 🔭 I’m currently learning **Computer Science** through Harvard's CS50.
+- 🌱 I’m currently learning **Python** and **Automation**.
+- 🥅 Goals: To become a **Senior Software Engineer** and work on global remote projects.
+- ⚡ Fun fact: I love modifying Android systems and working with ADB!
+
+## 🛠 Tech Stack
+- **Languages:** Python (Learning), C (Learning)
+- **Tools:** ADB, Git, PyCharm, MacOS
+
+## 📈 My GitHub Stats
+![Elkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
 <!--
 **Alikhanov-Tech/Alikhanov-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
