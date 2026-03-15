@@ -11,9 +11,7 @@
 - **Tools:** ADB, Git, PyCharm, MacOS
 
 ## 📈 My GitHub Stats
-![Elkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-<!--
-**Alikhanov-Tech/Alikhanov-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Elkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alikhanov-Tech&show_icons=true&theme=radical)**Alikhanov-Tech/Alikhanov-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
